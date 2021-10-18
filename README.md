@@ -1,5 +1,4 @@
 # second-week-projekt
-Test
 
 Sziasztok!
 
