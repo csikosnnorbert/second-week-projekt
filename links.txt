@@ -1,0 +1,4 @@
+Linkek, ahonnan infókat szerezhetünk:
+
+1. inf.u-szeged.hu/~gnemeth/kurzusok/oprendszerek/exe/OperaciosRendszerek2018_web/a_rendszert_felpt_knyvtrszerkezet.html
+2. https://www.linuxadictos.com/hu/hogyan-%C3%A1ll-%C3%B6ssze-a-linux-f%C3%A1jlrendszer-fel%C3%A9p%C3%ADt%C3%A9se-1.-r%C3%A9sz.html#comments
