@@ -6,9 +6,14 @@ Gondoltam, próbáljuk meg összerakni giten a projektet, úgyis hozzá kell
 szoknunk.
 
 Feladat leosztás:
-Ami alapján leosztódott: http://linux.valodi.info/parancsok/konyvtarszerkezet
+
 
 Zoltán: Bevezető, /bin; /boot; /cdrom; /dev
+
 Tamás: /etc; /home; /lib; /lost+found; /media; /mnt; /opt
+
 Norbert: /proc; /root; /sbin; /sys; /tmp; /usr; /var
-Katalin: prezentáció összerakás
+
+Kati: prezentáció összerakás
+
+Referencia: http://linux.valodi.info/parancsok/konyvtarszerkezet
